@@ -1,71 +1,23 @@
-# Hi there, I'm Sukhbir Singh 👋
+# Sukhbir Singh
 
-## 🚀 About Me
-Experienced **Software Engineer** with over **6 years** in software development, specializing in **Python, Django, Flask, NodeJS, and JavaScript**. Passionate about building scalable web applications, cloud solutions, and blockchain-based applications.
+**Senior full-stack engineer, backend-first. I join your team and ship to production.**
 
-![Profile Views](https://komarev.com/ghpvc/?username=sukhbir4393&color=blue&style=flat)
-![GitHub Followers](https://img.shields.io/github/followers/sukhbir4393?style=social)
-![GitHub Stars](https://img.shields.io/github/stars/sukhbir4393?style=social)
+I build Python (Django, FastAPI, Flask) and Node.js (Express) backends, React and Next.js frontends, and the AWS setup underneath. A Shopify product line's AWS bill went from $2,200 to $1,350 a month. 5 of 5 client reviews are 5 stars on Upwork.
 
-## 🛠️ Tech Stack
-### Frameworks & Tools
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next-dot-js&logoColor=white)
-![Truffle](https://img.shields.io/badge/Truffle-5E464D?style=for-the-badge&logo=truffle&logoColor=white)
-![Ganache](https://img.shields.io/badge/Ganache-EA7600?style=for-the-badge&logo=ethereum&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+## What you get
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next-dot-js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Class Variance Authority](https://img.shields.io/badge/CVA-000000?style=for-the-badge&logoColor=white)
+**A backend that stays correct as the product grows.** Data models, APIs and business logic that hold up under change. On ThriveLink, a U.S. care-navigation platform, I own the event-driven SMS and email engagement engine and the care-team dashboard (Django, Celery, React): about 150 merged PRs in 8 months.
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![AWS RDS](https://img.shields.io/badge/AWS_RDS-527FFF?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+**One engineer for the whole product, inside your team.** From the database to the frontend, working with your people so nothing is lost in a hand-off. For NTS G.R.O.W I built a Django platform that turns lab results into agronomy reports, with GPT-4o-written comments and a GitHub-to-AWS release pipeline.
 
-### Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+**Production on AWS.** Infrastructure as code with AWS CDK, CI/CD, Docker and disaster recovery. For Vivid Creations I moved their Shopify products from hand-run EC2 servers to right-sized ECS Fargate and cut the monthly AWS bill from $2,200 to $1,350.
 
-### Blockchain
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3-dot-js&logoColor=white)
-![Metamask](https://img.shields.io/badge/Metamask-E2761B?style=for-the-badge&logo=metamask&logoColor=white)
+## How I start
 
-### Other Tools
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+A paid technical review of your architecture, cloud setup or codebase: a written, ranked list of what to fix, with estimated savings where cost is involved.
 
-## 📈 GitHub Stats
-![Sukhbir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sukhbir4393&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sukhbir4393&layout=compact&theme=radical)
+## Where to find me
 
-## 📫 Connect With Me
-- 📧 Email: sukhbir.4393@gmail.com
-- 🏗️ [Portfolio](https://sukhbirsingh.dev)
+[Upwork profile](https://www.upwork.com/freelancers/~018d486625d50e8907)
 
-## 🌱 Currently Learning
-- Advanced Cloud Computing (AWS, GCP, Azure)
-- Smart Contract Security & Auditing
-- System Design & Scalability
-
-.
-
----
-💡 **"Passionate about leveraging technology to create impactful solutions!"** 🚀
+Client code is private. I do not publish it.
