@@ -18,6 +18,7 @@ A paid technical review of your architecture, cloud setup or codebase: a written
 
 ## Where to find me
 
-[Upwork profile](https://www.upwork.com/freelancers/~018d486625d50e8907)
+- Website: [sukhbirsingh.dev](https://sukhbirsingh.dev)
+- Upwork: [profile](https://www.upwork.com/freelancers/~018d486625d50e8907)
 
 Client code is private. I do not publish it.
